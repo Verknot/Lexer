@@ -1,0 +1,14 @@
+D:\C#\lexer\Lexer\Lexer\bin\Debug\netcoreapp3.1\Lexer.exe
+D:\C#\lexer\Lexer\Lexer\bin\Debug\netcoreapp3.1\Lexer.deps.json
+D:\C#\lexer\Lexer\Lexer\bin\Debug\netcoreapp3.1\Lexer.runtimeconfig.json
+D:\C#\lexer\Lexer\Lexer\bin\Debug\netcoreapp3.1\Lexer.runtimeconfig.dev.json
+D:\C#\lexer\Lexer\Lexer\bin\Debug\netcoreapp3.1\Lexer.dll
+D:\C#\lexer\Lexer\Lexer\bin\Debug\netcoreapp3.1\Lexer.pdb
+D:\C#\lexer\Lexer\Lexer\obj\Debug\netcoreapp3.1\Lexer.csproj.AssemblyReference.cache
+D:\C#\lexer\Lexer\Lexer\obj\Debug\netcoreapp3.1\Lexer.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\lexer\Lexer\Lexer\obj\Debug\netcoreapp3.1\Lexer.AssemblyInfoInputs.cache
+D:\C#\lexer\Lexer\Lexer\obj\Debug\netcoreapp3.1\Lexer.AssemblyInfo.cs
+D:\C#\lexer\Lexer\Lexer\obj\Debug\netcoreapp3.1\Lexer.csproj.CoreCompileInputs.cache
+D:\C#\lexer\Lexer\Lexer\obj\Debug\netcoreapp3.1\Lexer.dll
+D:\C#\lexer\Lexer\Lexer\obj\Debug\netcoreapp3.1\Lexer.pdb
+D:\C#\lexer\Lexer\Lexer\obj\Debug\netcoreapp3.1\Lexer.genruntimeconfig.cache
